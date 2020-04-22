@@ -1,0 +1,69 @@
+# depslib dependency file v1.0
+1587559288 source:c:\users\andyu\desktop\laba3\bus.cpp
+	"bus.h"
+	<iostream>
+
+1587560687 c:\users\andyu\desktop\laba3\bus.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"car.h"
+
+1587560687 c:\users\andyu\desktop\laba3\car.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"transport.h"
+
+1587559263 c:\users\andyu\desktop\laba3\transport.h
+	<cstring>
+	<iostream>
+	<math.h>
+
+1587560687 source:c:\users\andyu\desktop\laba3\car.cpp
+	"car.h"
+	<iostream>
+
+1587560687 source:c:\users\andyu\desktop\laba3\airplane.cpp
+	"airplane.h"
+	<iostream>
+
+1587562122 c:\users\andyu\desktop\laba3\airplane.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"transport.h"
+
+1587559129 source:c:\users\andyu\desktop\laba3\passenger_car.cpp
+	"passenger_car.h"
+	<iostream>
+
+1587560687 c:\users\andyu\desktop\laba3\passenger_car.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"car.h"
+
+1587560821 source:c:\users\andyu\desktop\laba3\steamboat.cpp
+	"steamboat.h"
+	<iostream>
+
+1587562122 c:\users\andyu\desktop\laba3\steamboat.h
+	<cstring>
+	<iostream>
+	<math.h>
+	"transport.h"
+
+1587559129 source:c:\users\andyu\desktop\laba3\transport.cpp
+	"transport.h"
+	<iostream>
+
+1587560909 source:c:\users\andyu\desktop\laba3\main.cpp
+	<iostream>
+	"steamboat.h"
+	"passenger_car.h"
+	"transport.h"
+	"car.h"
+	"bus.h"
+	"airplane.h"
+
